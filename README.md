@@ -7,3 +7,4 @@ artificial intelligence
 [lab5](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-5.ipynb)
 [lab6](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-6.ipynb)
 [lab7](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-7.ipynb)
+[lab8](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-8.ipynb)
