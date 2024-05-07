@@ -9,3 +9,4 @@ artificial intelligence
 [lab7](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-7.ipynb)
 [lab8](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-8.ipynb)
 [lab9](https://github.com/2203a52054/2203a52054/blob/main/2203A52054_lab9_aiml.ipynb)
+[lab10](https://github.com/2203a52054/2203a52054/blob/main/2203A52054%20L-10.ipynb)
